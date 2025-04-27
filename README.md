@@ -62,7 +62,7 @@ Total votes (EVM + Postal)
 
 Breakdown of EVM and postal votes.
 
-#### Technologies Used ####
+#### "Technologies Used" ####
 SQL (Structured Query Language)
 
 Microsoft SQL Server
